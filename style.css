@@ -1,0 +1,35 @@
+/* 4D Moment static site styles. Entirely local: no external resources are referenced. */
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 0 1rem 2rem;
+  color: #1a1a1a;
+  background-color: #ffffff;
+}
+
+header nav {
+  border-bottom: 1px solid #cccccc;
+  padding: 0.5rem 0;
+}
+
+header nav a {
+  margin-right: 1rem;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #005580;
+}
+
+footer {
+  border-top: 1px solid #cccccc;
+  margin-top: 2rem;
+  padding-top: 0.5rem;
+  font-size: 0.9rem;
+}
